@@ -9,7 +9,7 @@
     },
     "properties": {
     "Name":"Lock and Dam",
-    "Description":"The lock and dam controls the out flowing water leaving Lake Kegonsa.  This structure provides navigational and recreational access for boaters to Lake Kegonsa.  A lock allows the boat to stay on the river without having to go around a dam.",
+    "Description":"The lock and dam controls the flowing water leaving Lake Kegonsa.  This structure provides navigational and recreational access for boaters to Lake Kegonsa.  A lock allows the boat to stay on the river without having to go around a dam.",
     "Type": "Other",
     "Link_1":"https://parks-lwrd.countyofdane.com/parks-recreation/lakes-boating",
     "Link_2":"",
@@ -24,7 +24,7 @@
     },
     "properties": {
     "Name":"Lake Kegonsa State Park",
-    "Description":"Lake Kegonsa State Park opened to the public in 1967. The 342-acre property is a mix of woodland, restored prairie, wetlands and lakeshore frontage. Because of the variety of ecosystems, it is common to see deer, fox, otter, raccoons, herons, ducks, geese, turtles, snakes, reptiles, and songbirds. The park has a number of Native American mounds along a self-guided trail located in a mature oak forest. Numerous historical, archaeological, and natural resource features are found here, as well as a boat launch, beach, hiking trails and restrooms.",
+    "Description":"Lake Kegonsa State Park opened to the public in 1967. The 342-acre property is a mix of woodland, restored prairie, wetlands and lakeshore frontage. Because of the variety of ecosystems, it is common to see deer, fox, otter, raccoons, herons, ducks, geese, turtles, snakes, reptiles, and songbirds. The park has a number of Native American mounds along a self-guided trail located in a mature oak forest. Numerous historical, archaeological, and natural resource features are found here, as well as a boat launch, beach, and hiking trails.",
     "Type": "Other",
     "Link_1":"http://dnr.wi.gov/Calendar/Events/Parks/",
     "Link_2":"http://dnr.wi.gov/wnrmag/2016/08/Golden.pdf    ",
@@ -54,7 +54,7 @@
     },
     "properties": {
     "Name":"Example CLA Station",
-    "Description":"The Clean Lakes Alliance has worked to advance data collection methods on Lake Kegonsa.  The Kegonsa area bolsters a community looking to get more involved on maintaining the lake's health.  One way for them to do so is to actually collect the data.  This data collection method is considered citizen science, data collected by every day people, i.e. not professionals in the respective field of which the data pertains.  This is a sample station where community members log water quality information such as phosphorus levels and secchi depth.",
+    "Description":"The Clean Lakes Alliance has worked to advance data collection methods on Lake Kegonsa.  The Kegonsa area bolsters a community looking to get more involved with maintaining the lake's health.  One way for them to do so is to actually collect the data.  This data collection method is considered citizen science, data collected by every day people, i.e. not professionals in the respective field of which the data pertains.  This is a sample station where community members log water quality information such as phosphorus levels and secchi depth.",
     "Type": "Test",
     "Link_1":"https://cleanlakesalliance.org/?s=citizen",
     "Link_2":"",
@@ -69,7 +69,7 @@
     },
     "properties": {
     "Name":"Camp Collins and Stoughton Country Club",
-    "Description":"The Camp Collins Club was formed in 1885 when eight railroad managers decided to establish a club for family summer vacations and purchased acreage with 1,400 feet of shoreline. As membership increased, the railroad built a small station named \"Lake Kegonsa\" for members to de-train and walk to the camp. The camp even had a golf course. In 1906 the Camp Collins Club dissolved and subdivided the property. Stoughton Country Club. In the late 1880's some of the railroad executives from Chicago that started Camp Collins had an idea about building a golf course. They made an arrangement with a local farmer, Thor Olson to use his meadow. Armed with scythes they cut the long grass and played golf in the stubble. Olson's Meadow would later become the first nine holes of the Stoughton Country Club. It was the only golf course on the Yahara Lakes for years. To the west of the clubhouse along the bluff, early commercial fishermen built a small dam. The cool, spring-fed pond behind the dam provided an excellent live holding \"tank\" for their catch.  ",
+    "Description":"The Camp Collins Club was formed in 1885 when eight railroad managers decided to establish a club for family summer vacations and purchased acreage with 1,400 feet of shoreline. As membership increased, the railroad built a small station named \"Lake Kegonsa\" for members to de-train and walk to the camp. The camp even had a golf course. In 1906 the Camp Collins Club dissolved and subdivided the property.  In the late 1880s some of the railroad executives from Chicago that started Camp Collins had an idea about building a golf course. They made an arrangement with a local farmer, Thor Olson, to use his meadow. Armed with scythes, they cut the long grass and played golf in the stubble. Olson's Meadow would later become the first nine holes of the Stoughton Country Club. It was the only golf course on the Yahara Lakes for years. To the west of the clubhouse along the bluff, early commercial fishermen built a small dam. The cool, spring-fed pond behind the dam provided an excellent live holding \"tank\" for their catch.  ",
     "Type": "Historical",
     "Link_1":"https://www.stoughtoncountryclub.com/memberships/membership-information/31-members/98-members-history",
     "Link_2":"",
@@ -99,7 +99,7 @@
     },
     "properties": {
     "Name":"Fish Camp",
-    "Description":"Fish Camp County Park was a place for carp seining for many years. The State stocked the lake with carp from 1881-1897, and by the 1930s about three quarters to one million pounds of carp per year were removed and sold for food from each of the lower three Yahara Lakes. Lake Waubesa, in particular, had an abundance. The carp were placed in large water tanks on boxcars and sent to Chicago, New York, and southern states where they were sold as a delicacy. Small fish were canned at Nine Springs for animal feed, plowed under for fertilizer, and sold live to mink ranchers. The State ran these operations until 1976, when it transferred the business to the private sector. More recently, commercial fishermen used the area in early spring and late fall for unloading carp caught in gill nets. Now the park offers a canoe launch, public restrooms, accessible piers, walk-in fishing, and a fish cleaning area. The original 1937 storehouses for nets and boats have been restored.",
+    "Description":"Fish Camp County Park was a place for carp seining for many years. The state stocked the lake with carp from 1881-1897, and by the 1930s about three quarters to one million pounds of carp per year were removed and sold for food from each of the lower three Yahara Lakes. Lake Waubesa, in particular, had an abundance. The carp were placed in large water tanks on boxcars and sent to Chicago, New York, and southern states where they were sold as a delicacy. Small fish were canned at Nine Springs for animal feed, plowed under for fertilizer, and sold live to mink ranchers. The state ran these operations until 1976, when it transferred the business to the private sector. More recently, commercial fishermen used the area in early spring and late fall for unloading carp caught in gill nets. Now the park offers a canoe launch, public restrooms, accessible piers, walk-in fishing, and a fish cleaning area. The original 1937 storehouses for nets and boats have been restored.",
     "Type": "Historical",
     "Link_1":"http://www.wisconsinhistoricalmarkers.com/2017/05/fish-camp-county-park.html",
     "Link_2":"",
@@ -160,7 +160,7 @@
     "properties": {
     "Name":"Quam's Sea Plane Airport",
     "Type": "Other",
-    "Description":"Quam's Seaplane Airport just offshore from this spot is officially listed on air maps and used by pilots. On-shore, the same business sells gas and rents boats. Seaplane base is privately owned but is open to public. Airport identifier: 99C",
+    "Description":"Quam's Seaplane Airport is just offshore from this spot and is officially listed on air maps as well as used by pilots. On-shore, the same business sells gas and rents boats. Seaplane base is privately owned but is open to the public. Airport identifier: 99C",
     "Link_1":"http://www.airport-data.com/airport/99C/",
     "Link_2":"",
     "Link_3":""
@@ -173,7 +173,7 @@
        "coordinates":  [ -89.2835,42.9613 ]
     },
     "properties": {
-    "Name":"Farm",
+    "Name":"Farming",
     "Description":"Here is an example of the improvments made to farming practices over the years. This was once a tobacco farm that drained into the lake during heavy rain events. Today it has a vegetative buffer in place to prevent soil erosion and filter stormwater runoff. See the other new best management practices (BMPs) and projects today that farmers take pride in.",
     "Type": "Other",
     "Link_1":"http://www.yaharapridefarms.org/",
@@ -204,7 +204,7 @@
     },
     "properties": {
     "Name":"Carp",
-    "Description":"Images taken from FOLK's June 5/12 Newsletter, 2017. Reveals fishermen working to remove Carp from lake bottom as part of the Lake Kegonsa Carp Removal Project. An excess of 80,000lbs were removed on 5/5/2017 and 5/6/2017. The goal is to remove 200,000lbs per year for five years. Carp affect lake health as they uproot vegetation and disturb sediments. These bottom feeders impede fixation and cause added release of nutrients, like Phosphorus and Nitrogen, that affect the clarity of the lake. The project includes cooperation between FOLKS, Clean Lakes Alliance, and the DNR since 2015.",
+    "Description":"Images taken from FOLK's June 5/12 Newsletter, 2017. This photo reveals fishermen working to remove carp from the lake bottom as part of the Lake Kegonsa Carp Removal Project. An excess of 80,000lbs were removed on 5/5/2017 and 5/6/2017. The goal is to remove 200,000lbs per year for five years. Carp affect lake health as they uproot vegetation and disturb sediments. These bottom feeders impede fixation and cause added release of nutrients, like Phosphorus and Nitrogen, that affect the clarity of the lake. The project has included cooperation between FOLKS, Clean Lakes Alliance, and the DNR since 2015.",
     "Type": "Project",
     "Link_1":"http://kegonsa.org/news.html",
     "Link_2":"",
@@ -249,7 +249,7 @@
     },
     "properties": {
     "Name":"Mound Builders",
-    "Description":"National Register of Historic Places lists various sites in the Kegonsa  area and the Wisconsin Archeologist website has wonderful articles about mounds and the Native American fish weir just North of Dryerson Rd.  The best resource on the Mound Builders is the book  Spirits of earth : the effigy mound landscape of Madison and the Four Lakes by Birmingham, Robert A.",
+    "Description":"The National Register of Historic Places lists various sites in the Kegonsa  area and the Wisconsin Archeologist website has wonderful articles about mounds and the Native American fish weir just North of Dryerson Rd.  The best resource on the Mound Builders is the book Spirits of earth: the effigy mound landscape of Madison and the Four Lakes by Birmingham, Robert A.",
     "Type": "Historical",
     "Link_1":"http://www.nationalregisterofhistoricplaces.com/wi/dane/districts.html",
     "Link_2":"http://wiarcheologicalsociety.org/backissues/1996-vol-77-nos-12?rq=skare",
@@ -279,7 +279,7 @@
     },
     "properties": {
     "Name":"Springers",
-    "Description": "Sunnyside St; Stoughton  In the early 1900s this restaurant was a general store.  See their website for more information. Photo is from their website. ** Beautiful sunset site!",
+    "Description": "Sunnyside St, Stoughton in the early 1900s; this restaurant used to be a general store.  See their website for more information. Photo is from their website. ** Beautiful sunset site!",
     "Type": "Historical",
     "Link_1":"http://www.springersonthelake.com/",
     "Link_2":"",
@@ -294,7 +294,7 @@
     },
     "properties": {
     "Name":"Kegonsa Cove",
-    "Description": "County Hwy AB in McFarland. This place is a must see and if your lucky you might see some turtles. To see all they have to offer check out their website. We recommend stopping in for a 'pork paddle'.",
+    "Description": "County Hwy AB in McFarland. This place is a must see and if you're lucky you might see some turtles. To see all they have to offer check out their website. We recommend stopping in for a 'pork paddle'.",
     "Type": "Other",
     "Link_1":"http://www.kegonsacove.com/",
     "Link_2":"",

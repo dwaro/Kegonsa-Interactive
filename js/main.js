@@ -199,7 +199,7 @@ function pointToLayer(feature, latlng, attributes, layer, map) {
   } else if (feature.properties.Name == 'Door Creek') {
     image.src = '../photos/door_creek_2.png';
     image.setAttribute("alt", "Door Creek");
-  } else if (feature.properties.Name == 'Farm') {
+  } else if (feature.properties.Name == 'Farming') {
     image.src = '../photos/farm_1.png';
     image2.src = '../photos/farm_2.png';
     image.setAttribute("alt", "Farm near Lake Kegonsa");
@@ -258,7 +258,7 @@ function pointToLayer(feature, latlng, attributes, layer, map) {
       if (image2.src != '') {
         panel += "<img style='width: 100%;' src=" + image2.src + " class='img-fluid'>"
       };
-      if (feature.properties.Link_1 != '' && feature.properties.Name != 'Example CLA Station' && feature.properties.Name != 'Carp') {
+      if (feature.properties.Link_1 != '' && feature.properties.Name != 'Example CLA Station' && feature.properties.Name != 'Carp' && feature.properties.Name != 'Farming') {
         panel += "<p class='lead text-center'>More information on <a href=" + feature.properties.Link_1 + " target='_blank'>" + feature.properties.Name + "</a>";
       };
       if (feature.properties.Name == 'Example CLA Station') {
@@ -266,6 +266,9 @@ function pointToLayer(feature, latlng, attributes, layer, map) {
       };
       if (feature.properties.Name == 'Carp') {
         panel += "<p class='lead text-center'>More information on <a href=" + feature.properties.Link_1 + " target='_blank'>" + 'carp removal in Lake Kegonsa' + "</a>";
+      };
+      if (feature.properties.Name == 'Farming') {
+        panel += "<p class='lead text-center'>More information on <a href=" + feature.properties.Link_1 + " target='_blank'>" + 'farming & water quality' + "</a>";
       };
       if (feature.properties.Link_2 != '') {
         panel += "<p class='lead text-center'>Additional <a href=" + feature.properties.Link_2 + " target='_blank'>information</a>";
