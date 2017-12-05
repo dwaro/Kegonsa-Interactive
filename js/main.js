@@ -44,7 +44,7 @@ function createMap(){
 
   // map object
   map = L.map('map', {
-    center: [42.98, -89.252280],
+    center: [42.977210, -89.252280],
     preferCanvas: true,
     //fullscreenControl: true,
     maxBounds: [ [39, -100], [50, -80] ],
