@@ -170,66 +170,66 @@ function pointToLayer(feature, latlng, attributes, layer, map) {
 
   // loops to assign image and href variables for each respective marker
   if (feature.properties.Name == 'Lock and Dam') {
-    image.src = 'photos/lock_and_dam.png';
+    image.src = '../photos/lock_and_dam.png';
     image.setAttribute("alt", "Lock and Dam Lake Kegonsa");
   } else if (feature.properties.Name == 'Amundson Boat Landing') {
-    image.src = 'photos/boat_landing.png';
+    image.src = '../photos/boat_landing.png';
     image.setAttribute("alt", "Amundson Boat Landing");
   } else if (feature.properties.Name == 'Carp') {
-    image.src = 'photos/carp_1.png';
-    image2.src = 'photos/carp_2.png';
+    image.src = '../photos/carp_1.png';
+    image2.src = '../photos/carp_2.png';
     image.setAttribute("alt", "Removing carp from the lake.");
   } else if (feature.properties.Name == 'The Castle') {
-    image.src = 'photos/castle.png';
+    image.src = '../photos/castle.png';
     image.setAttribute("alt", "Castle on Lake Kegonsa");
   } else if (feature.properties.Name == 'Example CLA Station') {
-    image.src = 'photos/cla_station.png';
+    image.src = '../photos/cla_station.png';
     image.setAttribute("alt", "CLA sample station");
   } else if (feature.properties.Name == 'Camp Collins and Stoughton Country Club') {
-    image.src = 'photos/country_club_1.png';
-    image2.src = 'photos/country_club_2.png';
+    image.src = '../photos/country_club_1.png';
+    image2.src = '../photos/country_club_2.png';
     image.setAttribute("alt", "Stoughton Country Club");
   } else if (feature.properties.Name == 'Crown Point') {
-    image.src = 'photos/crown_point.png';
+    image.src = '../photos/crown_point.png';
     image.setAttribute("alt", "Crown Point Lake Kegonsa");
   } else if (feature.properties.Name == 'Culvert') {
-    image.src = 'photos/culvert_1.png';
-    image2.src = 'photos/culvert_2.png';
+    image.src = '../photos/culvert_1.png';
+    image2.src = '../photos/culvert_2.png';
     image.setAttribute("alt", "Culvert near Lake Kegonsa");
   } else if (feature.properties.Name == 'Door Creek') {
-    image.src = 'photos/door_creek_2.png';
+    image.src = '../photos/door_creek_2.png';
     image.setAttribute("alt", "Door Creek");
   } else if (feature.properties.Name == 'Farming') {
-    image.src = 'photos/farm_1.png';
-    image2.src = 'photos/farm_2.png';
+    image.src = '../photos/farm_1.png';
+    image2.src = '../photos/farm_2.png';
     image.setAttribute("alt", "Farm near Lake Kegonsa");
   } else if (feature.properties.Name == 'Fish Camp') {
-    image.src = 'photos/fish_camp.png';
+    image.src = '../photos/fish_camp.png';
     image.setAttribute("alt", "Fish Camp");
   } else if (feature.properties.Name == 'NLA Project') {
-    image.src = 'photos/nla_project.png';
+    image.src = '../photos/nla_project.png';
     image.setAttribute("alt", "NLA Project");
   } else if (feature.properties.Name == '\"Saloon in the Lake\"') {
-    image.src = 'photos/saloon.png';
+    image.src = '../photos/saloon.png';
     image.setAttribute("alt", "Saloon in the Lake");
   } else if (feature.properties.Name == 'Lake Kegonsa State Park') {
-    image.src = 'photos/state_park.png';
+    image.src = '../photos/state_park.png';
     image.setAttribute("alt", "Kegonsa State Park");
   } else if (feature.properties.Name == 'Ho-Chunk') {
-    image.src = 'photos/hochunk.png';
+    image.src = '../photos/hochunk.png';
     image.setAttribute("alt", "A nineteenth-century Ho-Chunk camp in southwestern Wisconsin as painted by Seth Eastman");
   } else if (feature.properties.Name == 'Mound Builders') {
-    image.src = 'photos/mound_2.png';
-    image2.src = 'photos/mound_1.png';
+    image.src = '../photos/mound_2.png';
+    image2.src = '../photos/mound_1.png';
     image.setAttribute("alt", "Mound Builders");
   } else if (feature.properties.Name == 'Skare Site') {
-    image.src = 'photos/skare_1.png';
+    image.src = '../photos/skare_1.png';
     image.setAttribute("alt", "Skare Site");
   } else if (feature.properties.Name == 'Springers') {
-    image.src = 'photos/springers.png';
+    image.src = '../photos/springers.png';
     image.setAttribute("alt", "Springers Restaurant");
   } else if (feature.properties.Name == 'Kegonsa Cove') {
-    image.src = 'photos/kegonsa_cove.png';
+    image.src = '../photos/kegonsa_cove.png';
     image.setAttribute("alt", "Kegonsa Cove");
   };
 
