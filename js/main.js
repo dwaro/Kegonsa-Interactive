@@ -207,7 +207,7 @@ function pointToLayer(feature, latlng, attributes, layer, map) {
     image.src = 'photos/fish_camp.png';
     image.setAttribute("alt", "Fish Camp");
   } else if (feature.properties.Name == 'NLA Project') {
-    image.src = 'photos/nla_project.png';
+    image.src = 'photos/NLA_project.png';
     image.setAttribute("alt", "NLA Project");
   } else if (feature.properties.Name == '\"Saloon in the Lake\"') {
     image.src = 'photos/saloon.png';
