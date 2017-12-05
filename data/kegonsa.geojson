@@ -1,0 +1,320 @@
+﻿{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2225,42.96912 ]
+    },
+    "properties": {
+    "Name":"Lock and Dam",
+    "Description":"The lock and dam controls the out flowing water leaving Lake Kegonsa.  This structure provides navigational and recreational access for boaters to Lake Kegonsa.  A lock allows the boat to stay on the river without having to go around a dam.",
+    "Type": "Other",
+    "Link_1":"https://parks-lwrd.countyofdane.com/parks-recreation/lakes-boating",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.232562,42.977011 ]
+    },
+    "properties": {
+    "Name":"Lake Kegonsa State Park",
+    "Description":"Lake Kegonsa State Park opened to the public in 1967. The 342-acre property is a mix of woodland, restored prairie, wetlands and lakeshore frontage. Because of the variety of ecosystems, it is common to see deer, fox, otter, raccoons, herons, ducks, geese, turtles, snakes, reptiles, and songbirds. The park has a number of Native American mounds along a self-guided trail located in a mature oak forest. Numerous historical, archaeological, and natural resource features are found here, as well as a boat launch, beach, hiking trails and restrooms.",
+    "Type": "Other",
+    "Link_1":"http://dnr.wi.gov/Calendar/Events/Parks/",
+    "Link_2":"http://dnr.wi.gov/wnrmag/2016/08/Golden.pdf    ",
+    "Link_3":"http://dnr.wi.gov/news/OR/?id=562#southcentral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.249376,43.008547 ]
+    },
+    "properties": {
+    "Name":"Door Creek",
+    "Description":"Door Creek stretches from Madison's East Side to the top of Lake Kegonsa.  The creek runs through multiple watersheds and most importantly farmland.  Currently, there is a project funded to dredge a neighboring creek.  The hopes are if the dredging works well, the project will be moved to Door Creek, a larger inlet to the lake.",
+    "Type": "Project",
+    "Link_1":"http://kegonsa.org/newsletters/oct2015.pdf",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2389,42.96983 ]
+    },
+    "properties": {
+    "Name":"Example CLA Station",
+    "Description":"The Clean Lakes Alliance has worked to advance data collection methods on Lake Kegonsa.  The Kegonsa area bolsters a community looking to get more involved on maintaining the lake's health.  One way for them to do so is to actually collect the data.  This data collection method is considered citizen science, data collected by every day people, i.e. not professionals in the respective field of which the data pertains.  This is a sample station where community members log water quality information such as phosphorus levels and secchi depth.",
+    "Type": "Test",
+    "Link_1":"https://cleanlakesalliance.org/?s=citizen",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.250027,42.948564 ]
+    },
+    "properties": {
+    "Name":"Camp Collins and Stoughton Country Club",
+    "Description":"The Camp Collins Club was formed in 1885 when eight railroad managers decided to establish a club for family summer vacations and purchased acreage with 1,400 feet of shoreline. As membership increased, the railroad built a small station named \"Lake Kegonsa\" for members to de-train and walk to the camp. The camp even had a golf course. In 1906 the Camp Collins Club dissolved and subdivided the property. Stoughton Country Club. In the late 1880's some of the railroad executives from Chicago that started Camp Collins had an idea about building a golf course. They made an arrangement with a local farmer, Thor Olson to use his meadow. Armed with scythes they cut the long grass and played golf in the stubble. Olson's Meadow would later become the first nine holes of the Stoughton Country Club. It was the only golf course on the Yahara Lakes for years. To the west of the clubhouse along the bluff, early commercial fishermen built a small dam. The cool, spring-fed pond behind the dam provided an excellent live holding \"tank\" for their catch.  ",
+    "Type": "Historical",
+    "Link_1":"https://www.stoughtoncountryclub.com/memberships/membership-information/31-members/98-members-history",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.26038,42.94898 ]
+    },
+    "properties": {
+    "Name":"Amundson Boat Landing",
+    "Description":"Amundson boat landing in the Town of Dunn has limited parking, but at one time was the location of a very popular dance hall with live bands in the 1930s and '40s.",
+    "Type": "Other",
+    "Link_1":"https://www.facebook.com/pages/Amundson-Boat-Landing/395022210609132",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.26313,42.98212 ]
+    },
+    "properties": {
+    "Name":"Fish Camp",
+    "Description":"Fish Camp County Park was a place for carp seining for many years. The State stocked the lake with carp from 1881-1897, and by the 1930s about three quarters to one million pounds of carp per year were removed and sold for food from each of the lower three Yahara Lakes. Lake Waubesa, in particular, had an abundance. The carp were placed in large water tanks on boxcars and sent to Chicago, New York, and southern states where they were sold as a delicacy. Small fish were canned at Nine Springs for animal feed, plowed under for fertilizer, and sold live to mink ranchers. The State ran these operations until 1976, when it transferred the business to the private sector. More recently, commercial fishermen used the area in early spring and late fall for unloading carp caught in gill nets. Now the park offers a canoe launch, public restrooms, accessible piers, walk-in fishing, and a fish cleaning area. The original 1937 storehouses for nets and boats have been restored.",
+    "Type": "Historical",
+    "Link_1":"http://www.wisconsinhistoricalmarkers.com/2017/05/fish-camp-county-park.html",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.27302,42.96332 ]
+    },
+    "properties": {
+    "Name":"\"Saloon in the Lake\"",
+    "Description":"\"Saloon in the Lake\" was established by George Barber and Anton Anderson in 1895 off ColiadayPoint on a shallow bar in the lake, now marked by three buoys. The saloon dispensed both malt beverages and hard spirits to anglers and other thirsty individuals who visited by boat. The proprietors claimed that the 12-feet by 15-feet sand bar was out of the local jurisdiction's control so the owners obtained a federal liquor license.",
+    "Type": "Other",
+    "Link_1":"http://kegonsa.org/newsletters/september2013.pdf",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.27652,42.9535 ]
+    },
+    "properties": {
+    "Name":"The Castle",
+    "Description":"The Castle was built in 1903 for Peter Sorenson and Gunder Anderson to replicate a typical Danish castle with two turrets. It is constructed on a large, flat-topped rock and was intended to be a summer bachelor home. The Castle is privately owned.",
+    "Type": "Historical",
+    "Link_1":"http://www.dupontcastle.com/castles/kegonsa.htm",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.281480,42.960055 ]
+    },
+    "properties": {
+    "Name":"Culvert",
+    "Type": "Other",
+    "Description":"In 2006 this culvert was full of sludge from soil erosion during a heavy storm event. One can find out more about Wisconsin's structures through the Department of Transportation's Highway Structures Information System (HIS).",
+    "Link_1":"",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.27083,42.95083 ]
+    },
+    "properties": {
+    "Name":"Quam's Sea Plane Airport",
+    "Type": "Other",
+    "Description":"Quam's Seaplane Airport just offshore from this spot is officially listed on air maps and used by pilots. On-shore, the same business sells gas and rents boats. Seaplane base is privately owned but is open to public. Airport identifier: 99C",
+    "Link_1":"http://www.airport-data.com/airport/99C/",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2835,42.9613 ]
+    },
+    "properties": {
+    "Name":"Farm",
+    "Description":"Here is an example of the improvments made to farming practices over the years. This was once a tobacco farm that drained into the lake during heavy rain events. Today it has a vegetative buffer in place to prevent soil erosion and filter stormwater runoff. See the other new best management practices (BMPs) and projects today that farmers take pride in.",
+    "Type": "Other",
+    "Link_1":"http://www.yaharapridefarms.org/",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.24417,42.96416 ]
+    },
+    "properties": {
+    "Name":"NLA Project",
+    "Description": "Lake Kegonsa is one of the few Lakes in the Environmental Protection Acgency's National Lakes Assessment (NLA) program. For this reason Lake Kegonsa data will be included in various research articles that have multiple sites in them. For more information you can go to the EPA and WDNR websites.",
+    "Type": "Test",
+    "Link_1":"http://dnr.wi.gov/topic/surfacewater/monitoring/NLA.html",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2536,42.9643 ]
+    },
+    "properties": {
+    "Name":"Carp",
+    "Description":"Images taken from FOLK's June 5/12 Newsletter, 2017. Reveals fishermen working to remove Carp from lake bottom as part of the Lake Kegonsa Carp Removal Project. An excess of 80,000lbs were removed on 5/5/2017 and 5/6/2017. The goal is to remove 200,000lbs per year for five years. Carp affect lake health as they uproot vegetation and disturb sediments. These bottom feeders impede fixation and cause added release of nutrients, like Phosphorus and Nitrogen, that affect the clarity of the lake. The project includes cooperation between FOLKS, Clean Lakes Alliance, and the DNR since 2015.",
+    "Type": "Project",
+    "Link_1":"http://kegonsa.org/news.html",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2534708,42.982402 ]
+    },
+    "properties": {
+    "Name":"Suck the Muck",
+    "Description":"'Suck the Muck' is a 12 million dollar project conducted by Dane County. Announced in September 2017, it aims to remove legacy phosphorus via hydraulic dredging of creek sediments. Barriers are to be constructed to prevent sediment drift downstream. The goal is to reduce phosphorus loading into the lakes and improve future water quality over time. Target creeks include Dorn, Six Mile, Token, Upper Yahara River, Door, and Nine Springs. The outlet of Door Creek belongs to the Lake Kegonsa watershed.",
+    "Type": "Project",
+    "Link_1":"http://dnr.wi.gov/lakes/grants/project.aspx?project=10099947 http://www.hngnews.com/sun_prairie_star/news/article_c7feb408-a2c8-11e7-be1e-b74b7dc835cb.html",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.248041,42.948497 ]
+    },
+    "properties": {
+    "Name":"Ho-Chunk",
+    "Description":"In the early nineteenth century, Lake Kegonsa was called “Na-sa-koo-cha-tel-a,” or “hard maple grove” by the Ho Chunk who lived there (Pyre 1926, 1; Birmingham 2010, 190). This is a location of an 1830s Ho-Chunk village.  For more on the Hochungra visit the Wisconsin Historical Society.",
+    "Type": "Historical",
+    "Link_1":"https://www.wisconsinhistory.org/Records/Article/CS4377",
+    "Link_2":"http://ho-chunknation.com/",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.278208,42.988393 ]
+    },
+    "properties": {
+    "Name":"Mound Builders",
+    "Description":"National Register of Historic Places lists various sites in the Kegonsa  area and the Wisconsin Archeologist website has wonderful articles about mounds and the Native American fish weir just North of Dryerson Rd.  The best resource on the Mound Builders is the book  Spirits of earth : the effigy mound landscape of Madison and the Four Lakes by Birmingham, Robert A.",
+    "Type": "Historical",
+    "Link_1":"http://www.nationalregisterofhistoricplaces.com/wi/dane/districts.html",
+    "Link_2":"http://wiarcheologicalsociety.org/backissues/1996-vol-77-nos-12?rq=skare",
+    "Link_3":"https://search.library.wisc.edu/catalog/9910688448302121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.275528,42.993046 ]
+    },
+    "properties": {
+    "Name":"Skare Site",
+    "Description": "Various discoveries at the Skare (scar  ē) site between Lakes Kegonsa and Waubesa prove the area was an aggregation site for the Paleopeoples. They returned to the area many times. Watch Dr. Sissel Schroeder's presentation about the tools in their kits and what they were used on.",
+    "Type": "Historical",
+    "Link_1":"http://www.uwalumni.com/news/online-lecture-paleoindians-the-first-people-in-wisconsin/",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.244361,42.979065 ]
+    },
+    "properties": {
+    "Name":"Springers",
+    "Description": "Sunnyside St; Stoughton  In the early 1900s this restaurant was a general store.  See their website for more information. Photo is from their website. ** Beautiful sunset site!",
+    "Type": "Historical",
+    "Link_1":"http://www.springersonthelake.com/",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.267366,42.981169 ]
+    },
+    "properties": {
+    "Name":"Kegonsa Cove",
+    "Description": "County Hwy AB in McFarland. This place is a must see and if your lucky you might see some turtles. To see all they have to offer check out their website. We recommend stopping in for a 'pork paddle'.",
+    "Type": "Other",
+    "Link_1":"http://www.kegonsacove.com/",
+    "Link_2":"",
+    "Link_3":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2787,42.9577 ]
+    },
+    "properties": {
+    "Name":"Crown Point",
+    "Description": "Located on Barber Dr (once highway 51, the main thoroughfare between Minneapolis and New Orleans).  Once you stay here it may become a family tradition. Talk to the owner about the history of this site.  ** Wonderful sunrise location!",
+    "Type": "Other",
+    "Link_1":"http://www.crownpointresort.com/",
+    "Link_2":"",
+    "Link_3":""
+    }
+  }
+]
+}
